@@ -1,0 +1,2 @@
+Basics of git are done
+Git is a tool of verdion's control, it helps to find all stages/modifications od the code and credentials such as details about developers who worked on the code, when it was modifed and what kind of modifications were made to the code.
